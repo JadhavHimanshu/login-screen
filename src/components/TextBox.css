@@ -1,0 +1,26 @@
+.input-container {
+  position: relative;
+  width: 100%;
+  margin-bottom: 1rem; /* Adds spacing between inputs */
+}
+
+
+.input-field {
+  width: 100%;
+  max-width: 500px;
+  padding: 8px 8px 8px 60px;  /* Creates space inside for the icon */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  background-color: #f9f9f9;
+  box-sizing: border-box;
+}
+
+.input-icon {
+  position: absolute;
+  left: 12px;  /* Icon inside the input box */
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  font-size: 16px;
+}
