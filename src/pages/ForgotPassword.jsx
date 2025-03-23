@@ -3,7 +3,7 @@ import "../App.css";
 import TextBox from "../components/TextBox";
 import Button from "../components/Button";
 import { useNavigate } from 'react-router-dom';
-import UserService from "../services/UserService"; // Import UserService for API call
+import UserService from "../services/UserService"; 
 
 function ForgotPasswordScreen() {
   const [newPassword, setNewPassword] = useState("");

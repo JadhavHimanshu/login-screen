@@ -79,9 +79,9 @@ a:hover {
 } 
 
 .link-container {
-  text-align: left;      /* Align with textboxes */
-  width: 100%;           /* Same width as inputs */
-  margin-top: 0.5rem;    /* Adjust spacing */
+  text-align: left;      
+  width: 100%;         
+  margin-top: 0.5rem;   
   padding-left: 8px; 
 }
 

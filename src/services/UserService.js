@@ -1,7 +1,7 @@
 import axios from 'axios';
 import config from '../config.json';  
 
-const BASE_URL = config.BASE_URL;  // No need to add extra `/`
+const BASE_URL = config.BASE_URL;
 
 const UserService = {
     signUp: (user) => {

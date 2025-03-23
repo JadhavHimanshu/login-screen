@@ -43,11 +43,11 @@
   font-size: 0.75rem; 
 } 
  .btn-link{
-    background-color: #fff;  /* White background */
-    color: #007bff;         /* Blue text for visibility */
+    background-color: #fff;  
+    color: #007bff;        
     border: none;   
-    outline: none;          /* Remove border */
-    text-decoration: none;   /* Clean link styling */
+    outline: none;         
+    text-decoration: none;   
     cursor: pointer;
     font-weight: bold;
     margin-bottom: 0.3rem;
